@@ -6,3 +6,4 @@ plotly
 pylance
 ipython
 nbformat
+scikit-learn
