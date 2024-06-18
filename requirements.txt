@@ -7,3 +7,4 @@ pylance
 ipython
 nbformat
 scikit-learn
+yellowbrick
